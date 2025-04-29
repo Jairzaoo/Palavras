@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Palavras</string>
+    <string name="add_palavra">Adicionar Palavra</string>
+    <string name="hint_palavra">Digite uma palavra</string>
+    <string name="btn_adicionar">Adicionar</string>
+    <string name="btn_cancelar">Cancelar</string>
+</resources>
